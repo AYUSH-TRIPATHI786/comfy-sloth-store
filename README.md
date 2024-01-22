@@ -1,8 +1,8 @@
 [Working Application - Deployed](https://comfy-sloth-interiors.netlify.app/)
 
-#### Comfy sloth interiors
+## Comfy sloth interiors
 
-#### Build Setup
+## Build Setup
 
 ### .env vars
 
@@ -15,7 +15,7 @@
 
 $ npm install
 
-# serve with hot reload at localhost:3000
+#### serve with hot reload at localhost:3000
 
 $ npm run dev
 
